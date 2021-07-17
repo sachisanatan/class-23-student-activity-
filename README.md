@@ -1,1 +1,2 @@
-# class-23-student-activity-
+# PiratesInvasionStage-0.5
+boiler plate code
